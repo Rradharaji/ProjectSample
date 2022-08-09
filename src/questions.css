@@ -1,0 +1,8 @@
+.questions{
+    
+    margin:20px;
+
+}
+button:focus {
+    background-color: yellow;
+  }

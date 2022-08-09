@@ -1,0 +1,7 @@
+.IntroSection{
+
+  margin:10px;
+  background-image: linear-gradient(to right,rgb(211, 211, 211),rgb(125, 125, 125));
+  width:100vw;
+  height:100vh;
+}
